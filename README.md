@@ -19,10 +19,8 @@ O <b>Luigi</b> é um chatbot desenvolvido para a aula de processamento de lingua
 
 <h3>🎨 Aplicação</h3>
 
-<div align="center"> 
-<img src = "https://files.catbox.moe/twdu5a.png" height="400em">
-<img src = "https://files.catbox.moe/oc9f86.png" height="400em">
-<img src = "https://files.catbox.moe/bv8s9j.png" height="400em">
+<div> 
+<img src = "https://files.catbox.moe/5h3hjg.png" height="400em">
 </div>
 
 <h3>🏁 Como Utilizar</h3>
